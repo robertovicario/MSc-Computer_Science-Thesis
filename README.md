@@ -1,3 +1,6 @@
+| <img src="docs/uninsubria.svg" width="128"> |
+| - |
+
 # MSc-Computer_Science-Thesis
 
 ## License
