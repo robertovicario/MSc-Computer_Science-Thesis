@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+    - family-names: "Vicario"
+      given-names: "Roberto"
+      orcid: "https://orcid.org/0009-0009-7426-3958"
+title: "Development of an Industrial AI-Based Software for Risk Estimation of PCBs in Space Manufacturing"
+version: 1.0.0
+date-released: 2026-10-19
+url: "https://github.com/robertovicario/MSc-Computer_Science-Thesis"
